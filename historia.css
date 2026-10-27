@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{ font-family: serif;
+   background-color: rgb(47, 69, 165);
+}
+    
+    
+#topo {
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+
+}
+header {
+    background-color: #1f0e61;
+    
+}
+header h1 {
+    color: #ebeae7;
+    letter-spacing: 5px;
+    line-height: 70px;
+    width: 600px;
+    float: left;
+    padding: 60px 0 30px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 75px;
+   
+}
+header p{
+    color: #FFF;
+    font-size: 20px;
+    width: 600px;
+    float: left;
+}
+p{
+    width: 55%;
+    font-size: 25px;
+    color: rgb(255, 205, 205);
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.text{
+    margin-left: 20%;
+    color: white;
+    padding: 35px;
+    font-size: 23px;
+}
+.titu{
+    color: rgb(160, 16, 16);
+    margin-left: 16%;
+    text-decoration: underline;
+    font-size: 40px;
+   
+}
+.img{
+    float: right;
+    margin-right: 13%;
+    border-radius: 35px;
+    border: 6px solid white;
+
+}
+.img2{
+     float: right;
+     margin-right: 7%;
+     border-radius: 35px;
+     border: 6px solid white;
+}
+.list{
+   font-size: 25px;
+}
+.dados{
+    border: 3px solid black;
+    border-radius: 15px;  
+    width: 50%;  
+    padding-left: 75px;
+}
+a{
+    color: white;
+    font-size: 35px;
+    margin: 40%;
+    text-decoration: none;
+    background-color: rgb(151, 36, 36);
+    border-radius: 30px;
+}
+a:hover{
+    color: black;
+    background-color: rgb(201, 144, 144);
+    border-radius: 30px;
+}
+.topu{
+ border: none;
+}
